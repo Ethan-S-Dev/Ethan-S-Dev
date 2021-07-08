@@ -36,9 +36,9 @@
 <br />
 
 ---
-<div>
+<div style="display:flex;justify-content:space-around">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Ethan-S-Dev&show_icons=true&include_all_commits=true&theme=dark&hide=prs,issues,contribs" alt="Ethan's github stats" title="Ethan's github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Ethan-S-Dev&show_icons=true&include_all_commits=true&theme=dark&hide=prs,issues,contribs" alt="Ethan's github stats" title="Ethan's github stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ethan-S-Dev&layout=compact&theme=dark" 
