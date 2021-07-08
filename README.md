@@ -1,5 +1,4 @@
 <link rel="stylesheet" type="text/css"  href="styles/style.css" />
-(setq markdown-css-paths '("/path/to/custom.css"))
 
 ### Hi, I'm Ethan 👋
 
