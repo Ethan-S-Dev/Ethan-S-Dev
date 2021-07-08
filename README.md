@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css"  href="styles/style.css">
+<link rel="stylesheet" type="text/css"  href="./styles/style.css">
 
 ### Hi, I'm Ethan 👋
 
@@ -62,7 +62,7 @@
 
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+  <summary> :zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1](https://github.com/codeSTACKr/portfolio-sass/issues/1) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
