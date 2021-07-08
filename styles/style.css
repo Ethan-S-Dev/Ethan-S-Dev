@@ -1,3 +1,7 @@
+body {
+    background-color: #1e1e1e;
+}
+
 .github-stats-box {
     display: flex;
     justify-content: space-around;
