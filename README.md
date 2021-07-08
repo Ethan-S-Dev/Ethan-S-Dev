@@ -37,7 +37,12 @@
 <br/>
 <br/>
 
-<img align="left" alt="DotNet" title="DotNet" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/visualstudio.svg" />
+<img align="left" alt="Visual Studio" title="Visual Studio" width="26px" src="https://raw.githubusercontent.com/Ethan-S-Dev/Ethan-S-Dev/master/images/Visual-Studio-Logo.png" />
+<img align="left" alt="Dot Net Core" title="Dot Net Core" width="26px" src="https://raw.githubusercontent.com/Ethan-S-Dev/Ethan-S-Dev/master/images/NET_Core_Logo.svg.png" />
+<img align="left" alt="C#" title="C#" width="26px" src="" />
+<img align="left" alt="DotNet" title="DotNet" width="26px" src="https://raw.githubusercontent.com/Ethan-S-Dev/Ethan-S-Dev/master/images/Typescript_logo_2020.svg.png" />
+<img align="left" alt="DotNet" title="DotNet" width="26px" src="https://raw.githubusercontent.com/Ethan-S-Dev/Ethan-S-Dev/master/images/NET_Core_Logo.svg.png" />
+<img align="left" alt="DotNet" title="DotNet" width="26px" src="https://raw.githubusercontent.com/Ethan-S-Dev/Ethan-S-Dev/master/images/NET_Core_Logo.svg.png" />
 <img align="left" alt="DotNet" title="DotNet" width="26px" src="https://raw.githubusercontent.com/Ethan-S-Dev/Ethan-S-Dev/master/images/NET_Core_Logo.svg.png" />
 
 <br />
