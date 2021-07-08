@@ -34,6 +34,10 @@
 <img align="left" alt="Python" title="Python" width="26px" src="https://raw.githubusercontent.com/Ethan-S-Dev/Ethan-S-Dev/master/images/2048px-Python-logo-notext.svg.png" />
 <img align="left" alt="Visual Studio" title="Visual Studio" width="26px" src="https://raw.githubusercontent.com/Ethan-S-Dev/Ethan-S-Dev/master/images/Visual-Studio-Logo.png" />
 <img align="left" alt="Dot Net Core" title="Dot Net Core" width="26px" src="https://raw.githubusercontent.com/Ethan-S-Dev/Ethan-S-Dev/master/images/NET_Core_Logo.svg.png" />
+
+<br/>
+<br/>
+
 <img align="left" alt="C#" title="C#" width="26px" src="https://raw.githubusercontent.com/Ethan-S-Dev/Ethan-S-Dev/master/images/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />
 <img align="left" alt="C++" title="C++" width="26px" src="https://raw.githubusercontent.com/Ethan-S-Dev/Ethan-S-Dev/master/images/1200px-ISO_C%2B%2B_Logo.svg.webp" />
 <img align="left" alt="ECMAScript" title="ECMAScript" width="26px" src="https://raw.githubusercontent.com/Ethan-S-Dev/Ethan-S-Dev/master/images/44452f80-3d8d-11eb-8608-23ca5fb95acc.png" />
