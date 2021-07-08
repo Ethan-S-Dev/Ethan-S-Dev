@@ -1,0 +1,4 @@
+.github-stats-box {
+    display: flex;
+    justify-content: space-around;
+}
