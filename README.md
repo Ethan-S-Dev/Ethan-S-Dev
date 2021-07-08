@@ -42,10 +42,10 @@
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" width="35vw" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Ethan-S-Dev&show_icons=true&include_all_commits=true&theme=dark&hide=prs,issues,contribs" alt="Ethan's github stats" title="Ethan's github stats" />
+    <img align="center" width="55%" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Ethan-S-Dev&show_icons=true&include_all_commits=true&theme=dark&hide=prs,issues,contribs" alt="Ethan's github stats" title="Ethan's github stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" width="25vw" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ethan-S-Dev&layout=compact&theme=dark" 
+    <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ethan-S-Dev&layout=compact&theme=dark" 
     alt="Ethan's most used languages" title="Ethan's most used languages" />
   </a>
 </div>
