@@ -37,9 +37,9 @@
 <br/>
 <br/>
 
-<img align="left" alt="DotNet" title="DotNet" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/dotnet.svg" />
 <img align="left" alt="DotNet" title="DotNet" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/visualstudio.svg" />
-<img align="left" alt="DotNet" title="DotNet" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/visualstudio.svg" />
+<img align="left" alt="DotNet" title="DotNet" width="26px" src="https://raw.githubusercontent.com/Ethan-S-Dev/Ethan-S-Dev/master/images/NET_Core_Logo.svg.png" />
+
 <br />
 <br />
 
