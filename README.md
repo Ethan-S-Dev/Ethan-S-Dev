@@ -1,8 +1,6 @@
-<link rel="stylesheet" type="text/css"  href="./styles/style.css">
+## Hi, I'm Ethan 👋
 
-### Hi, I'm Ethan 👋
-
-## I'm a Programer and Stodent at Sela Collage!!
+#### I'm a Programer and Stodent at Sela Collage!!
 
 <!--- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
