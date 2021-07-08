@@ -23,6 +23,7 @@
 
 ### Languages and Tools:
 
+
 <img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
 <img align="left" alt="HTML5" title="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" title="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -30,20 +31,19 @@
 <img align="left" alt="React" title="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" title="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="SQL" title="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="Visual Studio" title="Visual Studio" width="26px" src="https://raw.githubusercontent.com/Ethan-S-Dev/Ethan-S-Dev/master/images/Visual-Studio-Logo.png" />
+<img align="left" alt="Dot Net Core" title="Dot Net Core" width="26px" src="https://raw.githubusercontent.com/Ethan-S-Dev/Ethan-S-Dev/master/images/NET_Core_Logo.svg.png" />
+<img align="left" alt="C#" title="C#" width="26px" src="https://raw.githubusercontent.com/Ethan-S-Dev/Ethan-S-Dev/master/images/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />
+<img align="left" alt="C++" title="C++" width="26px" src="https://raw.githubusercontent.com/Ethan-S-Dev/Ethan-S-Dev/master/images/1200px-ISO_C%2B%2B_Logo.svg.webp" />
+<img align="left" alt="ECMAScript" title="ECMAScript" width="26px" src="https://raw.githubusercontent.com/Ethan-S-Dev/Ethan-S-Dev/master/images/44452f80-3d8d-11eb-8608-23ca5fb95acc.png" />
+<img align="left" alt="SQLite" title="SQLite" width="26px" src="https://raw.githubusercontent.com/Ethan-S-Dev/Ethan-S-Dev/master/images/1200px-SQLite370.svg.png" />
+<img align="left" alt="JQuery" title="JQuery" width="26px" src="https://raw.githubusercontent.com/Ethan-S-Dev/Ethan-S-Dev/master/images/jquery.png" />
+<img align="left" alt="TypeScript" title="TypeScript" width="26px" src="https://raw.githubusercontent.com/Ethan-S-Dev/Ethan-S-Dev/master/images/Typescript_logo_2020.svg.png" />
 <img align="left" alt="Git" title="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" title="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" title="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<br/>
-<br/>
 
-<img align="left" alt="Visual Studio" title="Visual Studio" width="26px" src="https://raw.githubusercontent.com/Ethan-S-Dev/Ethan-S-Dev/master/images/Visual-Studio-Logo.png" />
-<img align="left" alt="Dot Net Core" title="Dot Net Core" width="26px" src="https://raw.githubusercontent.com/Ethan-S-Dev/Ethan-S-Dev/master/images/NET_Core_Logo.svg.png" />
-<img align="left" alt="C#" title="C#" width="26px" src="" />
-<img align="left" alt="DotNet" title="DotNet" width="26px" src="https://raw.githubusercontent.com/Ethan-S-Dev/Ethan-S-Dev/master/images/Typescript_logo_2020.svg.png" />
-<img align="left" alt="DotNet" title="DotNet" width="26px" src="https://raw.githubusercontent.com/Ethan-S-Dev/Ethan-S-Dev/master/images/NET_Core_Logo.svg.png" />
-<img align="left" alt="DotNet" title="DotNet" width="26px" src="https://raw.githubusercontent.com/Ethan-S-Dev/Ethan-S-Dev/master/images/NET_Core_Logo.svg.png" />
-<img align="left" alt="DotNet" title="DotNet" width="26px" src="https://raw.githubusercontent.com/Ethan-S-Dev/Ethan-S-Dev/master/images/NET_Core_Logo.svg.png" />
 
 <br />
 <br />
