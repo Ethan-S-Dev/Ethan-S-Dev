@@ -2,13 +2,10 @@
 
 #### I'm a Programer and Stodent at Sela Collage!!
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Ethan-S-Dev.Ethan-S-Dev)
+[<img src="https://visitor-badge.glitch.me/badge?page_id=Ethan-S-Dev.Ethan-S-Dev" alt="visitor badge" title=""/>][github]
+<!--![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Ethan-S-Dev.Ethan-S-Dev)-->
 
-<!--- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums-->
+
 
 ### Spotify Playing 🎧
 
@@ -82,3 +79,4 @@
 
 [twitter]: https://twitter.com/shoham_ethan
 [linkedin]: https://www.linkedin.com/in/ethan-shoham-13a40050/
+[github]: https://github.com/Ethan-S-Dev/
