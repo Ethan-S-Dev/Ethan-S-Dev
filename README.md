@@ -69,8 +69,10 @@
 <br/>
 
 ---
-
+<details>
+  <summary> ⚡ Recent Activity</summary>
 <!--START_SECTION:activity-->
+</details>
 
 [twitter]: https://twitter.com/shoham_ethan
 [linkedin]: https://www.linkedin.com/in/ethan-shoham-13a40050/
