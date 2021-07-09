@@ -10,7 +10,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://novatorem-ethan-s-dev.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />][spotify]
+[<img src="https://novatorem-ethan-s-dev.vercel.app/api/spotify" alt="Spotify Now Playing" width="350" />][spotify]
 
 ### Connect with me:
 
