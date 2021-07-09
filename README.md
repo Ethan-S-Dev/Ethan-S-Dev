@@ -78,10 +78,10 @@
 ---
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Ethan-S-Dev/pet-catalog-mvc-website/pull/2) in [Ethan-S-Dev/pet-catalog-mvc-website](https://github.com/Ethan-S-Dev/pet-catalog-mvc-website)
-2. 💪 Opened PR [#2](https://github.com/Ethan-S-Dev/pet-catalog-mvc-website/pull/2) in [Ethan-S-Dev/pet-catalog-mvc-website](https://github.com/Ethan-S-Dev/pet-catalog-mvc-website)
-3. 🎉 Merged PR [#1](https://github.com/Ethan-S-Dev/pet-catalog-mvc-website/pull/1) in [Ethan-S-Dev/pet-catalog-mvc-website](https://github.com/Ethan-S-Dev/pet-catalog-mvc-website)
-4. 💪 Opened PR [#1](https://github.com/Ethan-S-Dev/pet-catalog-mvc-website/pull/1) in [Ethan-S-Dev/pet-catalog-mvc-website](https://github.com/Ethan-S-Dev/pet-catalog-mvc-website)
+1. 💪 Opened PR [#35](https://github.com/novatorem/novatorem/pull/35) in [novatorem/novatorem](https://github.com/novatorem/novatorem)
+2. 🎉 Merged PR [#2](https://github.com/Ethan-S-Dev/pet-catalog-mvc-website/pull/2) in [Ethan-S-Dev/pet-catalog-mvc-website](https://github.com/Ethan-S-Dev/pet-catalog-mvc-website)
+3. 💪 Opened PR [#2](https://github.com/Ethan-S-Dev/pet-catalog-mvc-website/pull/2) in [Ethan-S-Dev/pet-catalog-mvc-website](https://github.com/Ethan-S-Dev/pet-catalog-mvc-website)
+4. 🎉 Merged PR [#1](https://github.com/Ethan-S-Dev/pet-catalog-mvc-website/pull/1) in [Ethan-S-Dev/pet-catalog-mvc-website](https://github.com/Ethan-S-Dev/pet-catalog-mvc-website)
 <!--END_SECTION:activity-->
 
 
