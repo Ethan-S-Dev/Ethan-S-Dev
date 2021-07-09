@@ -71,15 +71,14 @@
 <br/>
 
 ---
-<details>
-  <summary> ⚡ Recent Activity</summary>
+### ⚡ Recent Activity
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#2](https://github.com/Ethan-S-Dev/pet-catalog-mvc-website/pull/2) in [Ethan-S-Dev/pet-catalog-mvc-website](https://github.com/Ethan-S-Dev/pet-catalog-mvc-website)
 2. 💪 Opened PR [#2](https://github.com/Ethan-S-Dev/pet-catalog-mvc-website/pull/2) in [Ethan-S-Dev/pet-catalog-mvc-website](https://github.com/Ethan-S-Dev/pet-catalog-mvc-website)
 3. 🎉 Merged PR [#1](https://github.com/Ethan-S-Dev/pet-catalog-mvc-website/pull/1) in [Ethan-S-Dev/pet-catalog-mvc-website](https://github.com/Ethan-S-Dev/pet-catalog-mvc-website)
 4. 💪 Opened PR [#1](https://github.com/Ethan-S-Dev/pet-catalog-mvc-website/pull/1) in [Ethan-S-Dev/pet-catalog-mvc-website](https://github.com/Ethan-S-Dev/pet-catalog-mvc-website)
 <!--END_SECTION:activity-->
-</details>
+
 
 [twitter]: https://twitter.com/shoham_ethan
 [linkedin]: https://www.linkedin.com/in/ethan-shoham-13a40050/
