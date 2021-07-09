@@ -10,6 +10,16 @@
 
 ### Spotify Playing 🎧
 
+<table width="100%"> 
+  <tr>
+  <td>
+      
+&nbsp; <br> [![Spotify](https://novatorem-ethan-s-dev.vercel.app/api/spotify)](https://open.spotify.com/user/fxv03m10bfrkfvgetec19iydc?si=4546e26349f24c87)
+
+  </td>
+</tr>
+</table>
+
 [![Spotify](https://novatorem-ethan-s-dev.vercel.app/api/spotify)](https://open.spotify.com/user/fxv03m10bfrkfvgetec19iydc?si=4546e26349f24c87)
 
 ### Connect with me:
