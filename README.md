@@ -8,9 +8,9 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums-->
 
-<!--### Spotify Playing 🎧
+### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Ethan Spotify Playing" width="350" />][spotify]-->
+[![Spotify](https://novatorem-ethan-s-dev.vercel.app/api/spotify)][spotify]
 
 ### Connect with me:
 
@@ -68,6 +68,10 @@
 <br/>
 <br/>
 
+---
+
+<!--START_SECTION:activity-->
+
 [twitter]: https://twitter.com/shoham_ethan
-[spotify]: https://open.spotify.com/user/fxv03m10bfrkfvgetec19iydc
+[spotify]: https://open.spotify.com/user/fxv03m10bfrkfvgetec19iydc?si=4546e26349f24c87
 [linkedin]: https://www.linkedin.com/in/ethan-shoham-13a40050/
