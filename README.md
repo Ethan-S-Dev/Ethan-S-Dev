@@ -10,7 +10,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem-ethan-s-dev.vercel.app/api/spotify)][spotify]
+[![Spotify](https://novatorem-ethan-s-dev.vercel.app/api/spotify)](https://open.spotify.com/user/fxv03m10bfrkfvgetec19iydc?si=4546e26349f24c87)
 
 ### Connect with me:
 
@@ -73,5 +73,5 @@
 <!--START_SECTION:activity-->
 
 [twitter]: https://twitter.com/shoham_ethan
-[spotify]: https://open.spotify.com/user/fxv03m10bfrkfvgetec19iydc?si=4546e26349f24c87
+<!-- [spotify]: https://open.spotify.com/user/fxv03m10bfrkfvgetec19iydc?si=4546e26349f24c87-->
 [linkedin]: https://www.linkedin.com/in/ethan-shoham-13a40050/
