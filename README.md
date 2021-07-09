@@ -1,6 +1,12 @@
 ## Hi, I'm Ethan 👋
 
-#### I'm a Programer and Stodent at Sela Collage!!
+#### 📚 - Software Dev Student - 📚
+#### 🎮 - Gamer At Heart - 🎮
+#### 🖥️ - Computer's Freak - 🖥️
+#### 🍽️ - Eat - 🍽️
+#### 😴 - Sleep - 😴
+#### 👨‍💻 - Code - 👨‍💻
+#### 🔁 - Repeat - 🔁
 
 [<img src="https://visitor-badge.glitch.me/badge?page_id=Ethan-S-Dev.Ethan-S-Dev" alt="visitor badge" title=""/>][github]
 <!--![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Ethan-S-Dev.Ethan-S-Dev)-->
