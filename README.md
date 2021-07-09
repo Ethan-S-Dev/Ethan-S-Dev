@@ -10,7 +10,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem-nine-theta.vercel.app/api/spotify)](https://open.spotify.com/user/fxv03m10bfrkfvgetec19iydc?si=4546e26349f24c87)
+[![Spotify](https://novatorem-orx0l2nld-ethan-s-dev.vercel.app/api/spotify)](https://open.spotify.com/user/fxv03m10bfrkfvgetec19iydc?si=4546e26349f24c87)
 
 ### Connect with me:
 
