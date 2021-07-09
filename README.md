@@ -1,5 +1,7 @@
 ## Hi, I'm Ethan 👋
 
+[<img src="https://visitor-badge.glitch.me/badge?page_id=Ethan-S-Dev.Ethan-S-Dev" alt="visitor badge" title=""/>][github]
+
 #### 📚 - Software Dev Student - 📚
 #### 🎮 - Gamer At Heart - 🎮
 #### 🖥️ - Computer's Freak - 🖥️
@@ -8,7 +10,7 @@
 #### 👨‍💻 - Code - 👨‍💻
 #### 🔁 - Repeat - 🔁
 
-[<img src="https://visitor-badge.glitch.me/badge?page_id=Ethan-S-Dev.Ethan-S-Dev" alt="visitor badge" title=""/>][github]
+
 <!--![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Ethan-S-Dev.Ethan-S-Dev)-->
 
 
