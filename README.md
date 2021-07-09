@@ -2,6 +2,8 @@
 
 #### I'm a Programer and Stodent at Sela Collage!!
 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Ethan-S-Dev.Ethan-S-Dev)
+
 <!--- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
