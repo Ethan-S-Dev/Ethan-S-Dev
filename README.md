@@ -78,10 +78,10 @@
 ---
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Ethan-S-Dev/novatorem/pull/1) in [Ethan-S-Dev/novatorem](https://github.com/Ethan-S-Dev/novatorem)
-2. ❌ Reopened PR [#1](https://github.com/Ethan-S-Dev/novatorem/pull/1) in [Ethan-S-Dev/novatorem](https://github.com/Ethan-S-Dev/novatorem)
-3. 🗣 Commented on [#1](https://github.com/Ethan-S-Dev/novatorem/issues/1) in [Ethan-S-Dev/novatorem](https://github.com/Ethan-S-Dev/novatorem)
-4. ❌ Closed PR [#1](https://github.com/Ethan-S-Dev/novatorem/pull/1) in [Ethan-S-Dev/novatorem](https://github.com/Ethan-S-Dev/novatorem)
+1. 🎉 Merged PR [#3](https://github.com/Ethan-S-Dev/pet-catalog-mvc-website/pull/3) in [Ethan-S-Dev/pet-catalog-mvc-website](https://github.com/Ethan-S-Dev/pet-catalog-mvc-website)
+2. 💪 Opened PR [#3](https://github.com/Ethan-S-Dev/pet-catalog-mvc-website/pull/3) in [Ethan-S-Dev/pet-catalog-mvc-website](https://github.com/Ethan-S-Dev/pet-catalog-mvc-website)
+3. 🎉 Merged PR [#1](https://github.com/Ethan-S-Dev/novatorem/pull/1) in [Ethan-S-Dev/novatorem](https://github.com/Ethan-S-Dev/novatorem)
+4. ❌ Reopened PR [#1](https://github.com/Ethan-S-Dev/novatorem/pull/1) in [Ethan-S-Dev/novatorem](https://github.com/Ethan-S-Dev/novatorem)
 <!--END_SECTION:activity-->
 
 
