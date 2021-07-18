@@ -45,7 +45,6 @@
 
 <img align="left" alt="C#" title="C#" width="26px" src="https://raw.githubusercontent.com/Ethan-S-Dev/Ethan-S-Dev/master/images/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />
 <img align="left" alt="C++" title="C++" width="26px" src="https://raw.githubusercontent.com/Ethan-S-Dev/Ethan-S-Dev/master/images/1200px-ISO_C%2B%2B_Logo.svg.webp" />
-<img align="left" alt="ECMAScript" title="ECMAScript" width="26px" src="https://raw.githubusercontent.com/Ethan-S-Dev/Ethan-S-Dev/master/images/44452f80-3d8d-11eb-8608-23ca5fb95acc.png" />
 <img align="left" alt="SQLite" title="SQLite" width="26px" src="https://raw.githubusercontent.com/Ethan-S-Dev/Ethan-S-Dev/master/images/1200px-SQLite370.svg.png" />
 <img align="left" alt="JQuery" title="JQuery" width="26px" src="https://raw.githubusercontent.com/Ethan-S-Dev/Ethan-S-Dev/master/images/jquery.png" />
 <img align="left" alt="TypeScript" title="TypeScript" width="26px" src="https://raw.githubusercontent.com/Ethan-S-Dev/Ethan-S-Dev/master/images/Typescript_logo_2020.svg.png" />
