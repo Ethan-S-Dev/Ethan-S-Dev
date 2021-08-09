@@ -77,10 +77,10 @@
 ---
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Ethan-S-Dev/ssh-tools/pull/1) in [Ethan-S-Dev/ssh-tools](https://github.com/Ethan-S-Dev/ssh-tools)
-2. 💪 Opened PR [#1](https://github.com/Ethan-S-Dev/ssh-tools/pull/1) in [Ethan-S-Dev/ssh-tools](https://github.com/Ethan-S-Dev/ssh-tools)
-3. 🎉 Merged PR [#6](https://github.com/Ethan-S-Dev/pet-catalog-mvc-website/pull/6) in [Ethan-S-Dev/pet-catalog-mvc-website](https://github.com/Ethan-S-Dev/pet-catalog-mvc-website)
-4. 💪 Opened PR [#6](https://github.com/Ethan-S-Dev/pet-catalog-mvc-website/pull/6) in [Ethan-S-Dev/pet-catalog-mvc-website](https://github.com/Ethan-S-Dev/pet-catalog-mvc-website)
+1. 🎉 Merged PR [#3](https://github.com/Ethan-S-Dev/ssh-tools/pull/3) in [Ethan-S-Dev/ssh-tools](https://github.com/Ethan-S-Dev/ssh-tools)
+2. 💪 Opened PR [#3](https://github.com/Ethan-S-Dev/ssh-tools/pull/3) in [Ethan-S-Dev/ssh-tools](https://github.com/Ethan-S-Dev/ssh-tools)
+3. 🎉 Merged PR [#2](https://github.com/Ethan-S-Dev/ssh-tools/pull/2) in [Ethan-S-Dev/ssh-tools](https://github.com/Ethan-S-Dev/ssh-tools)
+4. 💪 Opened PR [#2](https://github.com/Ethan-S-Dev/ssh-tools/pull/2) in [Ethan-S-Dev/ssh-tools](https://github.com/Ethan-S-Dev/ssh-tools)
 <!--END_SECTION:activity-->
 
 
